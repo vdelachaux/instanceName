@@ -3,4 +3,4 @@
 # Source files
 # ============
 *.4DForm linguist-language=json
-*.4DProject linguist-language=xml
+*.4DProject linguist-language=json
