@@ -1,0 +1,6 @@
+# Basic .gitattributes for a 4D repo.
+
+# Source files
+# ============
+*.4DForm json
+*.4DProject   xml
