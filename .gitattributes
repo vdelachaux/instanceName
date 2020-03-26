@@ -4,3 +4,4 @@
 # ============
 *.4DForm linguist-language=json
 *.4DProject linguist-language=json
+*.4DCatalog linguist-language=xml
