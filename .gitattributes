@@ -1,7 +1,20 @@
+# ====================================================================
 # Basic .gitattributes for a 4D repo.
+# ====================================================================
+
+*               text=auto
+
+# ====================================================================
+# The above will handle all files NOT found below
+# ====================================================================
+
+# These files are text and should be normalized (Convert crlf => lf)
+*.gitattributes text
+.gitignore      text
+*.md            text
 
 # Source files
-# ============
+*.4DCatalog linguist-language=xml
+*.4DSettings linguist-language=xml
 *.4DForm linguist-language=json
 *.4DProject linguist-language=json
-*.4DCatalog linguist-language=xml
