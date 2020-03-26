@@ -1,0 +1,1 @@
+Self:C308->:=New object:C1471("instanceName";OBJECT Get name:C1087(Object current:K67:2))

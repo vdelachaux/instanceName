@@ -1,0 +1,107 @@
+﻿{
+	"$4d": {
+		"version": "1",
+		"kind": "form"
+	},
+	"windowSizingX": "variable",
+	"windowSizingY": "variable",
+	"windowMinWidth": 0,
+	"windowMinHeight": 0,
+	"windowMaxWidth": 32767,
+	"windowMaxHeight": 32767,
+	"rightMargin": 20,
+	"bottomMargin": 20,
+	"events": [
+		"onLoad",
+		"onPageChange",
+		"onValidate",
+		"onClick",
+		"onDoubleClick",
+		"onOutsideCall",
+		"onBeginDragOver",
+		"onDragOver",
+		"onDrop",
+		"onAfterKeystroke",
+		"onMenuSelect",
+		"onPluginArea",
+		"onAfterEdit",
+		"onTimer",
+		"onBoundVariableChange"
+	],
+	"windowTitle": "window title",
+	"destination": "detailScreen",
+	"pages": [
+		{
+			"objects": {}
+		},
+		{
+			"objects": {
+				"instance_1": {
+					"type": "subform",
+					"left": 28,
+					"top": 23,
+					"width": 423,
+					"height": 62,
+					"detailForm": "subform",
+					"borderStyle": "sunken",
+					"events": [
+						"onLoad"
+					],
+					"method": "ObjectMethods/instance_1.4dm"
+				},
+				"instance_2": {
+					"type": "subform",
+					"left": 28,
+					"top": 105,
+					"width": 423,
+					"height": 62,
+					"detailForm": "subform",
+					"borderStyle": "sunken",
+					"events": [
+						"onLoad"
+					],
+					"method": "ObjectMethods/instance_2.4dm"
+				},
+				"instance_3": {
+					"type": "subform",
+					"left": 28,
+					"top": 187,
+					"width": 423,
+					"height": 62,
+					"detailForm": "subform",
+					"borderStyle": "sunken",
+					"events": [
+						"onLoad"
+					],
+					"method": "ObjectMethods/instance_3.4dm"
+				},
+				"instance_4": {
+					"type": "subform",
+					"left": 28,
+					"top": 269,
+					"width": 423,
+					"height": 62,
+					"detailForm": "subform",
+					"borderStyle": "sunken",
+					"events": [
+						"onLoad"
+					],
+					"method": "ObjectMethods/instance_4.4dm"
+				},
+				"instance_5": {
+					"type": "subform",
+					"left": 28,
+					"top": 351,
+					"width": 423,
+					"height": 62,
+					"detailForm": "subform",
+					"borderStyle": "sunken",
+					"events": [
+						"onLoad"
+					],
+					"method": "ObjectMethods/instance_5.4dm"
+				}
+			}
+		}
+	]
+}

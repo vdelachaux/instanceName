@@ -1,0 +1,8 @@
+
+Data/
+Preferences/
+Project/DerivedData/
+Resources/php.ini
+Settings/
+userPreferences.*/
+.DS_Store
