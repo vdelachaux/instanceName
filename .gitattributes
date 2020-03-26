@@ -2,5 +2,5 @@
 
 # Source files
 # ============
-*.4DForm text diff=json
-*.4DProject text diff=xml
+*.4DForm linguist-language=json
+*.4DProject linguist-language=xml
